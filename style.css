@@ -1,12 +1,14 @@
-.robovermelho{
-width: 50%;
+.robovermelho {
+    width: 50%;
 
 }
-.robovermelho{
-width: 70%;
- 
+
+.robovermelho {
+    width: 70%;
+
 }
-.principal{
-display: flex;
-flex-direction: row;
+
+.principal {
+    display: flex;
+    flex-direction: row;
 }
