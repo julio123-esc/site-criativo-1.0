@@ -6,3 +6,7 @@ width: 50%;
 width: 70%;
  
 }
+.principal{
+display: flex;
+flex-direction: row;
+}
